@@ -1,2 +1,2 @@
 trigger demo
-new line added for jenkins build trigger
+new line is added for jenkins build trigger
